@@ -113,7 +113,7 @@ Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — 
 <p align="center">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a>
   <a href="https://huggingface.co"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50"/></a>
-  <a href="https://www.langchain.com/"><img src="https://docs.langchain.com/assets/images/brand-icon-b4f71a0624d6d0299f01831c19b6736a.png" width="50"/></a>
+  <!--<a href="https://www.langchain.com/"><img src="https://docs.langchain.com/assets/images/brand-icon-b4f71a0624d6d0299f01831c19b6736a.png" width="50"/></a> -->
   <a href="https://pytorch.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/></a>
   <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/></a>
