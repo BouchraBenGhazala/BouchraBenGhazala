@@ -8,7 +8,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"/> Je suis <strong>Bouchra BENGHAZALA</strong>
   </h1>
   <h2><samp>Data Scientist Junior | IA Générative | NLP | RAG | Big Data</samp></h2>
-  <p>💡 Passionnée par la création de solutions intelligentes en combinant LLMs, RAG et ingénierie des données. Mon objectif : transformer la data en intelligence fiable et évolutive.</p>
+  <p>💡 Passionnée par la création de solutions intelligentes combinant LLMs, RAG et ingénierie des données. Mon objectif : transformer la data en intelligence fiable et évolutive.</p>
 </div>
 
 <div id="badges" align="center">
@@ -70,6 +70,11 @@ Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — 
 
 ## 💼 Expériences Récentes
 
+### 🧭 Data Scientist – Atos (Michelin) – Clermont-Ferrand (Mars 2025 – Sept. 2025)
+- Développement de **QuickScan Explorer**, application *Streamlit* pour la visualisation des alertes issues d’APIs FastAI.  
+- Conception d’un **chatbot IA générative** pour interroger des informations sur les véhicules, pneus et sites industriels (gestion de prompts & fine-tuning).  
+- Gestion et modélisation de **bases de données MongoDB, SQL et PostgreSQL** pour centraliser et fiabiliser les données.
+
 ### 🔬 Ingénieur de Recherche en GenAI – LIMOS (Aubière) (Oct. 2024 – Mars 2025)
 - Étude des modèles LLMs et architectures RAG.  
 - Conception de systèmes hybrides avec LangChain et LlamaIndex (Qwen2.5, Llama2-Chat).  
@@ -115,12 +120,12 @@ Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — 
 
 ---
 
-## 📈 Activité GitHub
+<!--## 📈 Activité GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BouchraBenGhazala&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=BouchraBenGhazala&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+</p> -->
 
 ---
 
