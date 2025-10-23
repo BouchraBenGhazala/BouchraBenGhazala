@@ -129,7 +129,7 @@ Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — 
   <img src="https://img.shields.io/badge/Médical-8BC34A?style=for-the-badge&logo=medtronic&logoColor=white" alt="Médical"/>
 </p>
 
----
+<!-- --- -->
 
 <!-- ## 📈 Activité GitHub
 <p align="center">
