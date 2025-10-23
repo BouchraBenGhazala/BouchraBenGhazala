@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l4FGJCDK1G0f27Jt6/giphy.gif" width="150" alt="Generative AI GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM5dTlpY2JidTdodjdyMGVxOXNpbm1xZmd2b2hrcTVtaGltcmRsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MdA16VIoXKKxNE8Tvs/giphy.gif" width="250" alt="AI Brain Neural Network Animation"/>
+  <h1 align="center">Bienvenue sur mon GitHub 👩‍💻</h1>
 </div>
 
 <div align="center">
@@ -7,7 +8,7 @@
     Salut ! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"/> Je suis <strong>Bouchra BENGHAZALA</strong>
   </h1>
-  <h2><samp>Data Scientist Junior | IA Générative | NLP | RAG | Big Data</samp></h2>
+  <h2><samp>Data Scientist Junior | IA Générative | NLP | RAG | ML/DL</samp></h2>
   <p>💡 Passionnée par la création de solutions intelligentes combinant LLMs, RAG et ingénierie des données. Mon objectif : transformer la data en intelligence fiable et évolutive.</p>
 </div>
 
@@ -33,8 +34,6 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=BouchraBenGhazala&style=flat-square&color=blue" alt="Profile views"/>
 </div>
-
----
 
 <!--
 ## 🔭 Actuellement
@@ -117,17 +116,17 @@ Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — 
   <a href="https://pytorch.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/></a>
   <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/></a>
-  <a href="https://spark.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50"/></a>
+  <!--<a href="https://spark.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50"/></a>-->
 </p>
 
 ---
 
-<!--## 📈 Activité GitHub
+## 📈 Activité GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BouchraBenGhazala&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=BouchraBenGhazala&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p> -->
+</p>
 
 ---
 
