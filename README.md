@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM5dTlpY2JidTdodjdyMGVxOXNpbm1xZmd2b2hrcTVtaGltcmRsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MdA16VIoXKKxNE8Tvs/giphy.gif" width="250" alt="AI Brain Neural Network Animation"/>
   <h1 align="center">Bienvenue sur mon GitHub 👩‍💻</h1>
   <p align="center"><samp><b>⚡ Building Intelligent AI Systems... ⚡</b></samp></p>
-</div>
+</div> -->
 
 <div align="center">
   <h1>
@@ -113,7 +113,7 @@ Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — 
 <p align="center">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a>
   <a href="https://huggingface.co"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50"/></a>
-  <a href="https://www.langchain.com/"><img src="https://docs.langchain.com/assets/images/brand-icon-b4f71a0624d6d0299f01831c19b6736a.png" width="50"/></a>
+  <!-- <a href="https://www.langchain.com/"><img src="https://docs.langchain.com/assets/images/brand-icon-b4f71a0624d6d0299f01831c19b6736a.png" width="50"/></a> -->
   <a href="https://pytorch.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/></a>
   <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/></a>
@@ -131,12 +131,12 @@ Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — 
 
 ---
 
-## 📈 Activité GitHub
+<!-- ## 📈 Activité GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BouchraBenGhazala&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=BouchraBenGhazala&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+</p> -->
 
 ---
 
