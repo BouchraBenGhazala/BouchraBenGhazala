@@ -1,7 +1,8 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM5dTlpY2JidTdodjdyMGVxOXNpbm1xZmd2b2hrcTVtaGltcmRsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MdA16VIoXKKxNE8Tvs/giphy.gif" width="250" alt="AI Brain Neural Network Animation"/>
   <h1 align="center">Bienvenue sur mon GitHub 👩‍💻</h1>
 </div>
+-->
 
 <div align="center">
   <h1>
