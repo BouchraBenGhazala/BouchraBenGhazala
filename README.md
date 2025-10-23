@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/LLMs-Fine--Tuning-red?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLMs Badge"/>
   <img src="https://img.shields.io/badge/RAG_Systems-LangChain-blueviolet?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Badge"/>
   <img src="https://img.shields.io/badge/NLP-Transformers-orange?style=for-the-badge&logo=pytorch&logoColor=white" alt="NLP Badge"/>
-  <img src="https://img.shields.io/badge/Big_Data-Spark-green?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Big Data Badge"/>
+  <!-- <img src="https://img.shields.io/badge/Big_Data-Spark-green?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Big Data Badge"/> -->
 </div>
 
 <br>
@@ -51,7 +51,7 @@
 
 ## 💡 À propos de moi
 👋 Bonjour, je suis <strong>Bouchra Benghazala</strong>, Data Scientist junior basée à <strong>Marseille, France</strong> 🇫🇷.  
-Je suis diplômée en Data Science et Intelligence Artificielle, avec une spécialisation en IA générative, NLP et Big Data.  
+Je suis diplômée en Data Science et Intelligence Artificielle, avec une spécialisation en IA générative, NLP et ML/DL.  
 Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — du prétraitement des données au déploiement de modèles LLMs augmentés avec RAG.
 
 ---
