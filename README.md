@@ -122,12 +122,12 @@ Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — 
 
 ---
 
-## 📈 Activité GitHub
+<!-- ## 📈 Activité GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BouchraBenGhazala&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=BouchraBenGhazala&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+</p> -->
 
 ---
 
