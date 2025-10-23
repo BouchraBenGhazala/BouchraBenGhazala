@@ -1,15 +1,15 @@
-<!-- <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczM5dTlpY2JidTdodjdyMGVxOXNpbm1xZmd2b2hrcTVtaGltcmRsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MdA16VIoXKKxNE8Tvs/giphy.gif" width="250" alt="AI Brain Neural Network Animation"/>
   <h1 align="center">Bienvenue sur mon GitHub 👩‍💻</h1>
+  <p align="center"><samp><b>⚡ Building Intelligent AI Systems... ⚡</b></samp></p>
 </div>
--->
 
 <div align="center">
   <h1>
     Salut ! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"/> Je suis <strong>Bouchra BENGHAZALA</strong>
   </h1>
-  <h2><samp>Data Scientist Junior | IA Générative | NLP | RAG | ML/DL</samp></h2>
+  <h2><samp>Data Scientist Junior | IA Générative | NLP | RAG | Big Data</samp></h2>
   <p>💡 Passionnée par la création de solutions intelligentes combinant LLMs, RAG et ingénierie des données. Mon objectif : transformer la data en intelligence fiable et évolutive.</p>
 </div>
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/LLMs-Fine--Tuning-red?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLMs Badge"/>
   <img src="https://img.shields.io/badge/RAG_Systems-LangChain-blueviolet?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Badge"/>
   <img src="https://img.shields.io/badge/NLP-Transformers-orange?style=for-the-badge&logo=pytorch&logoColor=white" alt="NLP Badge"/>
-  <!-- <img src="https://img.shields.io/badge/Big_Data-Spark-green?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Big Data Badge"/> -->
+  <img src="https://img.shields.io/badge/Big_Data-Spark-green?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Big Data Badge"/>
 </div>
 
 <br>
@@ -51,7 +51,7 @@
 
 ## 💡 À propos de moi
 👋 Bonjour, je suis <strong>Bouchra Benghazala</strong>, Data Scientist junior basée à <strong>Marseille, France</strong> 🇫🇷.  
-Je suis diplômée en Data Science et Intelligence Artificielle, avec une spécialisation en IA générative, NLP et ML/DL.  
+Je suis diplômée en Data Science et Intelligence Artificielle, avec une spécialisation en IA générative, NLP et Big Data.  
 Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — du prétraitement des données au déploiement de modèles LLMs augmentés avec RAG.
 
 ---
@@ -113,25 +113,37 @@ Mon parcours m’a permis d’explorer toute la chaîne de valeur de l’IA — 
 <p align="center">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></a>
   <a href="https://huggingface.co"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50"/></a>
-  <!--<a href="https://www.langchain.com/"><img src="https://docs.langchain.com/assets/images/brand-icon-b4f71a0624d6d0299f01831c19b6736a.png" width="50"/></a> -->
+  <a href="https://www.langchain.com/"><img src="https://docs.langchain.com/assets/images/brand-icon-b4f71a0624d6d0299f01831c19b6736a.png" width="50"/></a>
   <a href="https://pytorch.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/></a>
   <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/></a>
-  <!--<a href="https://spark.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50"/></a>-->
+  <a href="https://spark.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50"/></a>
 </p>
 
 ---
 
-<!-- ## 📈 Activité GitHub
+## 🌍 Domaines d’intérêt
+<p align="center">
+  <img src="https://img.shields.io/badge/Assurance-0078D4?style=for-the-badge&logo=trustpilot&logoColor=white" alt="Assurance"/>
+  <img src="https://img.shields.io/badge/Industrie-FF9800?style=for-the-badge&logo=siemens&logoColor=white" alt="Industrie"/>
+  <img src="https://img.shields.io/badge/Médical-8BC34A?style=for-the-badge&logo=medtronic&logoColor=white" alt="Médical"/>
+</p>
+
+---
+
+## 📈 Activité GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BouchraBenGhazala&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=BouchraBenGhazala&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p> -->
+</p>
 
 ---
 
 <div align="center">
+  <blockquote>
+    <p><em>“La vraie puissance de l’IA ne réside pas seulement dans ses modèles, mais dans les esprits qui les conçoivent.”</em></p>
+  </blockquote>
   <p>📍 Basée à <strong>Marseille, France</strong> | Ouverte aux opportunités en <strong>Data Science</strong>, <strong>IA Générative</strong> et <strong>Recherche en NLP</strong></p>
   <p><strong><samp>« Transformer la Data en Intelligence de Confiance »</samp></strong></p>
 </div>
