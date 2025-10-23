@@ -36,6 +36,7 @@
 
 ---
 
+<!--
 ## 🔭 Actuellement
 <p align="center">
   <strong>🧠 Étude sur la Fiabilité des SLMs augmentés par RAG :</strong> Évaluation de la confiance et de la robustesse des modèles Ollama & Llama.cpp avec LangChain et LlamaIndex.  
@@ -44,6 +45,7 @@
   <br>
   <strong>📊 Data Science :</strong> Analyse, visualisation et intégration de pipelines NLP/ML (Streamlit, FastAPI, Flask).
 </p>
+-->
 
 ---
 
